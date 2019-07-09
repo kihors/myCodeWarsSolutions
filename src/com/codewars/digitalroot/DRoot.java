@@ -1,4 +1,4 @@
-package com.digitalRoot;
+package com.codewars.digitalroot;
 
 class DRoot {
     static int digital_root(int n) {

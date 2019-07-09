@@ -1,4 +1,4 @@
-package com.digitalRoot;
+package com.codewars.digitalroot;
 
 public class TestApp {
     public static void main(String[] args) {
